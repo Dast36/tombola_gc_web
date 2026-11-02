@@ -87415,7 +87415,7 @@ A.DC.prototype={
 az(){var s,r=this
 r.aQ()
 B.b.C1(r.w)
-r.d=A.aC1("broker.emqx.io","ziotom300000","Tombolone")
+r.d=A.aC1("mdd2dadd.ala.eu-central-1.emqxsl.com","ziotom300000","Tombolone")
 r.wv()
 s=r.ch
 s.ro("it-IT")
@@ -87790,7 +87790,7 @@ az(){var s,r=this
 r.aQ()
 $.azz().lB(0,!0)
 r.d.push(A.aDp())
-r.f=A.aC1("broker.emqx.io","ziotom300000","Tombolone")
+r.f=A.aC1("mdd2dadd.ala.eu-central-1.emqxsl.com","ziotom300000","Tombolone")
 r.wG()
 s=r.db
 s.ro("it-IT")
